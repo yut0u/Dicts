@@ -1,0 +1,2 @@
+# Dicts
+bugbounty dicts
